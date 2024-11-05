@@ -4,6 +4,10 @@
 
 A simple slot machine game built using HTML, CSS, and JavaScript. The game allows players to deposit an amount, place bets on multiple lines, and spin the reels to test their luck. 
 
+# Live Demo 
+
+[slot machine game] : https://04zen.github.io/Slot-Machine-Game/
+
 ## Features
 
 1. **Deposit Funds**: Start by depositing an amount, which sets your starting balance.
