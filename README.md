@@ -6,7 +6,7 @@ A simple slot machine game built using HTML, CSS, and JavaScript. The game allow
 
 # Live Demo 
 
-[slot machine game] : https://04zen.github.io/Slot-Machine-Game/
+[slot machine game] : https://zenoguy.github.io/Slot-Machine-Game/
 
 ## Features
 
